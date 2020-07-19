@@ -24,7 +24,7 @@ h2{
 
 
 .wrapper::after {
-    bottom: 10px;
+    bottom: 0px;
     background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
     background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
@@ -181,6 +181,8 @@ h2{
         content: "Dayna Lessig";
     }
 } */
+
+
 
 
 
